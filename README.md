@@ -5,16 +5,24 @@ My name is **David Alves** (aka **znx**). I am currently based in Lisbon, Portug
 - 🎓 Studying **Electrical and Computer Engineering** at Instituto Superior Técnico, Lisbon
 - 🛡️ Cybersecurity Enthusiast & CTF Player
 - 🏴‍☠️ Member of **[Security Team @ Técnico (STT)](http://https://sectt.github.io/)** & **[THEM?!](https://ctf.themctf.com/)**
-- 🏃 Federated Athlete at **Muay Thai & Kickboxing** Portuguese Federation
+- 🏃 Federated Athlete at **[Muay Thai & Kickboxing Portuguese Federation](https://fpkmt.pt/)**
 - 🐧 Free & Open Source Software Enthusiast
 
 ---
 
 ### 🔗 Connect & Links
-- 📜 **CV (PDF):** [Download CV](https://github.com/znx0/cv/raw/main/DavidAlves_CV.pdf)
+- 📜 **CV Repository:** [znx0/cv](https://github.com/znx0/cv)
 - 💻 **GitHub:** [@znx0](https://github.com/znx0)
 -  **LinkedIn:** [David Alves](https://linkedin.com/in/davidacalves)
 - 📬 **Email:** [znx0@proton.me](mailto:znx0@proton.me)
 - 🌐 **Website:** *Coming Soon* 🚀
 
 ---
+
+### 🛠️ Tools and Languages
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,c,py,bash,git,docker,hugo&perline=8" alt="My Skills" />
+  </a>
+</p>
