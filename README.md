@@ -4,7 +4,7 @@ My name is **David Alves** (aka **znx**). I am currently based in Lisbon, Portug
 
 - 🎓 Studying **Electrical and Computer Engineering** at Instituto Superior Técnico, Lisbon
 - 🛡️ Cybersecurity Enthusiast & CTF Player
-- 🏴‍☠️ Member of **Security Team @ Técnico (STT)([http://](https://sectt.github.io/)** & **THEM?!(https://ctf.themctf.com/)**
+- 🏴‍☠️ Member of **[Security Team @ Técnico (STT)]([http://](https://sectt.github.io/)** & **[THEM?!](https://ctf.themctf.com/)**
 - 🏃 Federated Athlete at **Muay Thai & Kickboxing** Portuguese Federation
 - 🐧 Free & Open Source Software Enthusiast
 
