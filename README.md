@@ -31,10 +31,16 @@ My name is **David Alves** (aka **0xznx**). I am currently based in Lisbon, Port
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=znx0&theme=2077" alt="GitHub Profile Details" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=znx0&theme=2077&hide_border=true" alt="GitHub Streak" height="150" />
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=znx0&theme=2077" height="165" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=znx0&theme=dark&hide_border=true" height="165" />
+    </td>
+  </tr>
+</table>
 
 ```bash
 $ whoami
