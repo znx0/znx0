@@ -19,10 +19,10 @@ My name is **David Alves** (aka **znx**). I am currently based in Lisbon, Portug
 
 ---
 
-### 🛠️ Tools and Languages
+### 🛠️ Tools & Technologies
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,c,py,bash,git,docker,hugo&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,c,py,docker,github,wireshark,arduino,raspberrypi&perline=7" alt="My Skills" />
   </a>
 </p>
