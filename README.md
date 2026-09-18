@@ -26,3 +26,16 @@ My name is **David Alves** (aka **znx**). I am currently based in Lisbon, Portug
     <img src="https://skillicons.dev/icons?i=linux,c,py,github,arduino,raspberrypi&perline=14" alt="My Skills" height="32" />
   </a>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=znx0&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=znx0&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+```bash
+$ whoami
+David Alves (znx) — ECE Student @ IST | CTF Player @ STT & THEM?!
