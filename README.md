@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is **David Alves** (aka **znx**). I am currently based in Lisbon, Portugal!
+My name is **David Alves** (aka **0xznx**). I am currently based in Lisbon, Portugal!
 
 - 🎓 Studying **Electrical and Computer Engineering** at Instituto Superior Técnico, Lisbon
 - 🛡️ Cybersecurity Enthusiast & CTF Player
@@ -32,10 +32,10 @@ My name is **David Alves** (aka **znx**). I am currently based in Lisbon, Portug
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=znx0&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=znx0&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=znx0&show_icons=true&theme=dark&hide_border=true" alt="znx0 GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=znx0&layout=compact&theme=dark&hide_border=true" alt="znx0 Top Languages" height="150" />
 </p>
 
 ```bash
 $ whoami
-David Alves (znx) — ECE Student @ IST | CTF Player @ STT & THEM?!
+David Alves (0xznx) — Electrical Student @ IST | CTF Player @ STT & THEM?!
