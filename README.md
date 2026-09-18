@@ -23,6 +23,6 @@ My name is **David Alves** (aka **znx**). I am currently based in Lisbon, Portug
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,c,py,github,wireshark,arduino,raspberrypi&perline=7" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=linux,c,py,github,arduino,raspberrypi&perline=14" alt="My Skills" height="32" />
   </a>
 </p>
