@@ -15,7 +15,7 @@ My name is **David Alves** (aka **0xznx**). I am currently based in Lisbon, Port
 - 💻 **GitHub:** [@znx0](https://github.com/znx0)
 -  **LinkedIn:** [David Alves](https://linkedin.com/in/davidacalves)
 - 📬 **Email:** [znx0@proton.me](mailto:znx0@proton.me)
-- 🌐 **Website:** [0xznx.com](http://0xznx.com/)
+- 🌐 **Website:** [0xznx.com](https://0xznx.com/)
 
 ---
 
