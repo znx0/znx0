@@ -23,10 +23,9 @@ My name is **David Alves** (aka **0xznx**). I am currently based in Lisbon, Port
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,c,py,github,arduino,raspberrypi&perline=14" alt="My Skills" height="32" />
+    <img src="https://skillicons.dev/icons?i=linux,c,cpp,py,php,matlab,bash,git,github,githubactions,docker,arduino,raspberrypi,nginx,grafana,prometheus,cloudflare&perline=14" alt="My Skills" height="32" />
   </a>
 </p>
-
 ---
 
 ### 📊 GitHub Stats
