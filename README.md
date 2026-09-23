@@ -3,7 +3,7 @@
 My name is **David Alves** (aka **0xznx**). I am currently based in Lisbon, Portugal!
 
 - 🎓 Studying **Electrical and Computer Engineering** at Instituto Superior Técnico, Lisbon
-- 🛡️ Cybersecurity Enthusiast & CTF Player
+- 🛡️ Cybersecurity Enthusiast & CTF Player - **Top 3% on [TryHackMe](https://tryhackme.com/p/0xznx)**
 - 🏴‍☠️ Member of **[Security Team @ Técnico (STT)](http://https://sectt.github.io/)** & **[THEM?!](https://ctf.themctf.com/)**
 - 🏃 Federated Athlete at **[Muay Thai & Kickboxing Portuguese Federation](https://fpkmt.pt/)**
 - 🐧 Free & Open Source Software Enthusiast
