@@ -44,4 +44,4 @@ My name is **David Alves** (aka **0xznx**). I am currently based in Lisbon, Port
 
 ```bash
 $ whoami
-David Alves (0xznx) — Electrical Student @ IST | CTF Player @ STT & THEM?!
+David Alves (0xznx) — Electrical Engineering Student @ IST | CTF Player @ STT & THEM?!
